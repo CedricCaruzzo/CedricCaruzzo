@@ -32,7 +32,7 @@ As part of the **AI Foundation team** at Lunit, I apply my research interests to
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | **Foundation Model for Cell Painting** | A large-scale vision model designed to learn rich, generalizable features from cell morphology images.  |
 | **Multimodal Phenotype-Compound Translation** | A bidirectional model to translate between cell painting phenotypes and compound SMILES representations. |
-| **Educatif Panuke Segmentation** | A computer vision project focused on semantic segmentation, implementing multiple key architecture in computer vision in pytorch. |
+| **Educatif Panuke Segmentation** | A computer vision project focused on semantic segmentation, implementing several key architectures in PyTorch. |
 | **Neural Style Transfer** | An implementation of the classic algorithm to recompose images in the style of others.                  |
 
 
