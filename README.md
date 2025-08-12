@@ -4,38 +4,35 @@
   </a>
 </p>
 
-I'm an AI Research Scientist at [**Lunit**](https://lunit.io/), where my work is focused on building and applying large-scale AI models to solve complex scientific problems.
-
-My core interest lies at the intersection of computer vision and biology, particularly in developing foundation and multimodal models that can interpret and translate complex data types. I'm passionate about pushing the boundaries of what's possible with agentic AI and reinforcement learning.
-
----
-
-### 🔭 My Mission: Foundation Models to Conquer Cancer
-
-As part of the **AI Foundation team** at Lunit, I apply my research interests toward this core mission. We are creating robust and generalizable AI to fundamentally change how cancer is diagnosed and treated. Here's how my interests align with this goal:
-
-* 🧠 **Foundation Models for Oncology:** My primary focus is architecting and training large-scale models on **digital histopathology** data to discover novel biomarkers and improve diagnostic accuracy.
-
-* 🧬 **Multimodal Modeling for Cancer Research:** I work on creating systems that will integrate data from **histopathology, (and more to come ...🤫)** for a truly holistic understanding of cancer.
-
-* 🤖 **Agentic AI & RL in Oncology:** I'm exploring how reinforcement learning can create intelligent agents for complex research and analysis tasks within the cancer domain.
-
-* 👁️ **Computer Vision:** I apply cutting-edge vision techniques to new frontiers in medical imaging and computational pathology.
+Hey, I’m Cédric 👋 — currently building **foundation models** and **multimodal systems** at [**Lunit**](https://lunit.io/) to help rewire how we diagnose and treat cancer.  
+My day-to-day is a mix of deep computer vision, large-scale training, and occasionally convincing GPUs to behave.  
 
 ---
 
-### 🚀 Key Projects
-
-| Project                                                                            | Description                                                                                             |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Foundation Model for Cell Painting** | A large-scale vision model designed to learn rich, generalizable features from cell morphology images.  |
-| **Multimodal Phenotype-Compound Translation** | A bidirectional model to translate between cell painting phenotypes and compound SMILES representations. |
-| **Educatif Panuke Segmentation** | A computer vision project focused on semantic segmentation, implementing several key architectures in PyTorch. |
-| **Neural Style Transfer** | An implementation of the classic algorithm to recompose images in the style of others.                  |
-
+### 🧠 What I Work On
+- **Foundation Models for Oncology** — training large-scale vision models on **digital histopathology** to find new biomarkers and improve diagnosis.
+- **Multimodal AI for Cancer Research** — integrating histopathology with other modalities (the fun ones are still under wraps 🤫) for a full-spectrum view of cancer.
+- **Agentic AI & Reinforcement Learning** — exploring how RL can make research assistants that are less “scripted tool” and more “colleague who actually helps.”
+- **Computer Vision at Scale** — from microscopes to gigapixel slides, making sense of the tiny details that matter.
 
 ---
 
-### 📫 How to Reach Me
+### 🎯 My Mission
+To make AI that’s robust, interpretable, and useful enough to *actually* change clinical practice — starting with cancer.  
+If it needs to reason across images, text, chemistry, and biology, I’m probably interested.
 
-I'm always open to connecting with fellow researchers and developers. The best place to reach me is via [**LinkedIn**](https://www.linkedin.com/in/cedric-caruzzo/).
+---
+
+### 🚀 Some Things I’ve Built
+| Project | What It’s About |
+| ------- | --------------- |
+| **Foundation Model for Cell Painting** | Large-scale vision model learning rich, generalizable features from cell morphology images. |
+| **Multimodal Phenotype–Compound Translation** | Bidirectional model translating between cell painting phenotypes and compound SMILES. |
+| **Educatif PanNuke Segmentation** | Educational CV project on semantic segmentation, implementing U-Net & U-Net++ from scratch in PyTorch. |
+| **Neural Style Transfer** | Reimplementation of the classic algorithm — because sometimes you *do* just want Van Gogh to paint your cat. |
+
+---
+
+### 📬 Reach Me
+Best place to find me is on [**LinkedIn**](https://www.linkedin.com/in/cedric-caruzzo/).  
+I’m always up for geeking out about vision, foundation models, multimodal learning, or why reinforcement learning agents would make terrible roommates.
