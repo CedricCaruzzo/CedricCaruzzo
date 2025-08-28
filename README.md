@@ -12,7 +12,6 @@ My day-to-day is a mix of deep computer vision, large-scale training, and occasi
 ### 🧠 What I Work On
 - **Foundation Models for Oncology** — training large-scale vision models on **digital histopathology** to find new biomarkers and improve diagnosis.
 - **Multimodal AI for Cancer Research** — integrating histopathology with other modalities (the fun ones are still under wraps 🤫) for a full-spectrum view of cancer.
-- **Agentic AI & Reinforcement Learning** — exploring how RL can make research assistants that are less “scripted tool” and more “colleague who actually helps.”
 - **Computer Vision at Scale** — from microscopes to gigapixel slides, making sense of the tiny details that matter.
 
 ---
