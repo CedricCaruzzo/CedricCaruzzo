@@ -34,4 +34,3 @@ If it needs to reason across images, text, chemistry, and biology, I’m probabl
 
 ### 📬 Reach Me
 Best place to find me is on [**LinkedIn**](https://www.linkedin.com/in/cedric-caruzzo/).  
-I’m always up for geeking out about vision, foundation models, multimodal learning, or why reinforcement learning agents would make terrible roommates.
